@@ -2,8 +2,6 @@
 
 Find deployed site here: https://jate-ucb.herokuapp.com/
 
-![badge](https://img.shields.io/badge/MIT-License-blue.svg)
-
 ### Description
 
 JATE is a web application that serves as a simple text editor. With or without internet connection, users can create notes or code snippets that can be retrieved later on.
@@ -28,3 +26,5 @@ Once open, type your notes or code snippet into the editor. Your data gets saves
 ###  Technologies used
 
 Node.js, Express.js, IndexedDB, PWA, and Heroku
+
+![badge](https://img.shields.io/badge/MIT-License-blue.svg)
