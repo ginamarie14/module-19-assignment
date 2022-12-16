@@ -1,9 +1,14 @@
 # Text Editor
+
+Find deployed site here: https://jate-ucb.herokuapp.com/
+
 ![badge](https://img.shields.io/badge/MIT-License-blue.svg)
 
 ### Description
 
 JATE is a web application that serves as a simple text editor. With or without internet connection, users can create notes or code snippets that can be retrieved later on.
+
+<img width="959" alt="JATE" src="https://user-images.githubusercontent.com/44861723/208057469-15076d63-2f5c-4fd3-a902-392d8c133cbd.png">
 
 ### Table of Contents 
 
